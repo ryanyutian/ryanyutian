@@ -1,5 +1,15 @@
-## Hi there 👋
+# Ryan Y. Tian 🧬
 
+I'm a Senior Bioinformatics Analyst in the Northcott Lab at St. Jude Children's Research Hospital. I use long-read sequencing to study structural variation in pediatric brain tumors and analyze cerebrospinal fluid liquid biopsy data to detect tumor-derived signatures.
+
+### Selected research code
+
+- [Metastatic melanoma](https://github.com/pughlab/braf_melanoma_rap_wes) · Whole-exome analysis of 48 metastases from seven patients with BRAF-mutant melanoma.
+- [Glioma structural variants](https://github.com/pughlab/TRI_LRWGS_glioma) · Code from my master's thesis on structural variation in glioma using linked-read whole-genome sequencing.
+
+[ORCID ↗](https://orcid.org/0000-0002-1096-5418)
+
+📫 How to reach me: tian.ryanyu@gmail.com
 <!--
 **ryanyutian/ryanyutian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
